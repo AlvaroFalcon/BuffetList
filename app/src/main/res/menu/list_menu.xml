@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Limpiar lista"
+        android:id="@+id/clean_list"
+        android:icon="@drawable/ic_delete_white_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:title="Guardar lista"
+        android:id="@+id/save_list"
+        android:icon="@drawable/ic_done_white_24dp"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuffetList</string>
+    <string name="no_save_list_tv">No hay ninguna lista guardada</string>
+    <string name="confirm_clean_dialog_message">¿Está seguro que desea eliminar todos los elementos de la lista?</string>
+</resources>
